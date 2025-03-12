@@ -1,16 +1,25 @@
-# myapp
 
-A new Flutter project.
 
-## Getting Started
+# Sushirush App
 
-This project is a starting point for a Flutter application.
+Sushirush is a Flutter-based food ordering app that allows users to browse a menu of delicious sushi items and add them to their cart for purchase.
 
-A few resources to get you started if this is your first Flutter project:
+Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+📜 Menu Display: Showcases available sushi items with images, prices, and ratings.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🛒 Cart Management: Add and remove items from the cart.
+
+🔄 State Management: Uses Provider for managing state.
+
+🎨 Beautiful UI: Simple and attractive interface with Material Design.
+
+Tech Stack
+
+Flutter (Dart)
+
+Provider (State Management)
+
+Git & GitHub (Version Control)
+
+
