@@ -4,7 +4,7 @@
 
 Sushirush is a Flutter-based food ordering app that allows users to browse a menu of delicious sushi items and add them to their cart for purchase.
 
-Features
+# Features
 
 📜 Menu Display: Showcases available sushi items with images, prices, and ratings.
 
@@ -14,7 +14,7 @@ Features
 
 🎨 Beautiful UI: Simple and attractive interface with Material Design.
 
-Tech Stack
+# Tech Stack:
 
 Flutter (Dart)
 
